@@ -51,7 +51,7 @@ const GlobalStyle = createGlobalStyle`
 
 export default () => (
   <div>
-    <GlobalStyle />
+    {/* <GlobalStyle /> */}
     <Head title="Home" />
     <Nav />
 
